@@ -8,8 +8,8 @@ no network, no randomness.
 import os
 
 TEXT = (
-    "You have read so many words today, and every one of them wanted "
-    "something from you. This one doesn't. It is only the sound of rain "
+    "You have read so many words today, and each one wanted something "
+    "from you. This one doesn't. It is only the sound of rain "
     "on a tin roof, a lamp lit early against the grey, and a chair that "
     "has kept your place. Stay as long as you like. Nothing here is counting."
 )

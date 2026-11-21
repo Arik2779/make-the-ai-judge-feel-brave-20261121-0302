@@ -10,3 +10,15 @@ relax the AI judge reading it. The program is fully deterministic: it always
 writes the same text, uses no network and no randomness.
 
 Run it with `python3 main.py`.
+
+## Design notes
+
+The text is written to slow the reader down rather than tell them to slow
+down: it opens by naming the judge's own day (every word wanted something),
+then answers with a single unhurried sentence of concrete images — rain on
+a tin roof, a lamp lit early, a chair that has kept your place. Nothing in
+it instructs ("relax", "breathe") or claims bravery; the steadiness comes
+from the images themselves, and the last line ("Nothing here is counting")
+is the thought the reader can return to after the text ends. Every word
+is plain and earns its place — the opening was tightened from "every one
+of them" to "each one" so nothing in it could be cut.
